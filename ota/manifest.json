@@ -2,9 +2,9 @@
   "device": "rp2040-ota-demo",
   "version": "1.1.0",
   "file": "ota-app-1.1.0.bin",
-  "size": 35412,
-  "sha256": "abd1307a98f2696097cef0a4c9f7e808fb6801e49c97074edd6342b281ca4a33",
+  "size": 35420,
+  "sha256": "c08d235fb5a78869c61858a5acb04393c763cea57b688636ed88a2e52a52a460",
   "url": "https://gtfb100tx.github.io/ota/fw/ota-app-1.1.0.bin",
   "release_url": "https://github.com/gtfb100tx/firmware/releases/tag/v1.1.0",
-  "notes": "v1.1.0 LED 2Hz; fix PICO_FLASH_SIZE_BYTES assert"
+  "notes": "v1.1.0 LED 2Hz; fix FLASH_SIZE assert + DATA pad chunk"
 }
