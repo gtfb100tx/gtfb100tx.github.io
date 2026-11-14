@@ -3,8 +3,8 @@
   "version": "1.1.0",
   "file": "ota-app-1.1.0.bin",
   "size": 35412,
-  "sha256": "f79d75509c9beffc0e3d954d9988efe915d75f6cbc8458a4b7e48d8137463d1f",
+  "sha256": "abd1307a98f2696097cef0a4c9f7e808fb6801e49c97074edd6342b281ca4a33",
   "url": "https://gtfb100tx.github.io/ota/fw/ota-app-1.1.0.bin",
   "release_url": "https://github.com/gtfb100tx/firmware/releases/tag/v1.1.0",
-  "notes": "v1.1.0 LED 2Hz; OTA 双槽切换"
+  "notes": "v1.1.0 LED 2Hz; fix PICO_FLASH_SIZE_BYTES assert"
 }
